@@ -9,12 +9,17 @@ package calculator.pkg2;
  * @author 100162384
  */
 public class Calculator2 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args){ 
+            Calculator2 c1 = new Calculator2();
+            Calculator2 c2 = new Calculator2();
+            
+            c1.name = "Awesomeness";
+            c2.name = "Bacon Egg & Cheese ";
+            
+            
+            
+                
     }
-    
 }
+    
+       
